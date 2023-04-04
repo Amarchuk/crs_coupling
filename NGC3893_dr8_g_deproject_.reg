@@ -1,0 +1,125 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+image
+point(761,526) # point=cross
+point(775,522) # point=cross
+point(786,513) # point=cross
+point(793,494) # point=cross
+point(792,477) # point=cross
+point(786,461) # point=cross
+point(770,446) # point=cross
+point(749,434) # point=cross
+point(733,430) # point=cross
+point(717,431) # point=cross
+point(696,437) # point=cross
+point(680,451) # point=cross
+point(668,464) # point=cross
+point(663,484) # point=cross
+point(663,503) # point=cross
+point(663,527) # point=cross
+point(663,547) # point=cross
+point(675,568) # point=cross
+point(689,593) # point=cross
+point(698,614) # point=cross
+point(727,638) # point=cross
+point(761,646) # point=cross
+point(782,652) # point=cross
+point(811,655) # point=cross
+point(841,655) # point=cross
+point(874,652) # point=cross
+point(893,647) # point=cross
+point(922,631) # point=cross
+point(947,621) # point=cross
+point(979,599) # point=cross
+point(995,580) # point=cross
+point(1021,551) # point=cross
+point(1039,525) # point=cross
+point(1049,497) # point=cross
+point(1062,461) # point=cross
+point(1071,430) # point=cross
+point(1070,387) # point=cross
+point(1060,361) # point=cross
+point(1050,324) # point=cross
+point(1040,290) # point=cross
+point(1021,259) # point=cross
+point(998,229) # point=cross
+point(669,595) # point=cross color=red
+point(685,623) # point=cross color=red
+point(700,641) # point=cross color=red
+point(724,673) # point=cross color=red
+point(755,695) # point=cross color=red
+point(784,708) # point=cross color=red
+point(815,718) # point=cross color=red
+point(847,728) # point=cross color=red
+point(871,733) # point=cross color=red
+point(901,738) # point=cross color=red
+point(919,739) # point=cross color=red
+point(752,470) # point=cross color=blue
+point(732,474) # point=cross color=blue
+point(715,488) # point=cross color=blue
+point(708,510) # point=cross color=blue
+point(722,543) # point=cross color=blue
+point(741,552) # point=cross color=blue
+point(769,568) # point=cross color=blue
+point(794,570) # point=cross color=blue
+point(823,570) # point=cross color=blue
+point(847,564) # point=cross color=blue
+point(865,563) # point=cross color=blue
+point(881,543) # point=cross color=blue
+point(900,515) # point=cross color=blue
+point(901,491) # point=cross color=blue
+point(899,461) # point=cross color=blue
+point(884,426) # point=cross color=blue
+point(865,407) # point=cross color=blue
+point(838,388) # point=cross color=blue
+point(808,364) # point=cross color=blue
+point(778,353) # point=cross color=blue
+point(746,348) # point=cross color=blue
+point(709,346) # point=cross color=blue
+point(663,346) # point=cross color=blue
+point(631,354) # point=cross color=blue
+point(590,367) # point=cross color=blue
+point(557,381) # point=cross color=blue
+point(508,401) # point=cross color=blue
+point(487,433) # point=cross color=blue
+point(474,458) # point=cross color=blue
+point(471,495) # point=cross color=blue
+point(475,525) # point=cross color=blue
+point(488,570) # point=cross color=blue
+point(503,611) # point=cross color=blue
+point(526,656) # point=cross color=blue
+point(567,682) # point=cross color=blue
+point(598,702) # point=cross color=blue
+point(628,718) # point=cross color=blue
+point(665,729) # point=cross color=blue
+point(713,744) # point=cross color=blue
+point(750,755) # point=cross color=blue
+point(792,761) # point=cross color=blue
+point(823,768) # point=cross color=blue
+point(914,435) # point=cross color=cyan
+point(907,409) # point=cross color=cyan
+point(882,376) # point=cross color=cyan
+point(867,354) # point=cross color=cyan
+point(845,323) # point=cross color=cyan
+point(822,286) # point=cross color=cyan
+point(800,261) # point=cross color=cyan
+point(774,238) # point=cross color=cyan
+point(732,230) # point=cross color=cyan
+point(680,228) # point=cross color=cyan
+point(646,236) # point=cross color=cyan
+point(610,250) # point=cross color=cyan
+point(568,268) # point=cross color=cyan
+point(526,306) # point=cross color=cyan
+point(491,356) # point=cross color=cyan
+point(467,387) # point=cross color=cyan
+point(444,426) # point=cross color=cyan
+point(434,451) # point=cross color=cyan
+point(426,494) # point=cross color=cyan
+point(421,544) # point=cross color=cyan
+point(424,580) # point=cross color=cyan
+point(426,623) # point=cross color=cyan
+point(428,663) # point=cross color=cyan
+point(434,705) # point=cross color=cyan
+point(441,741) # point=cross color=cyan
+point(451,772) # point=cross color=cyan
+point(462,802) # point=cross color=cyan

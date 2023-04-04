@@ -1,0 +1,191 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+image
+point(3893.5119,2133.5814) # point=cross
+point(3864.8465,2054.7514) # point=cross
+point(3843.3474,1961.5887) # point=cross
+point(3861.2633,1911.4241) # point=cross
+point(3907.8446,1818.2614) # point=cross
+point(3965.1755,1739.4315) # point=cross
+point(4033.2559,1664.1847) # point=cross
+point(4130.0018,1635.5192) # point=cross
+point(4226.7477,1621.1865) # point=cross
+point(4337.8263,1631.936) # point=cross
+point(4452.4881,1657.0183) # point=cross
+point(4545.6508,1682.1006) # point=cross
+point(4635.2303,1739.4315) # point=cross
+point(4710.4771,1814.6783) # point=cross
+point(4764.2248,1854.0932) # point=cross
+point(4839.4716,1932.9232) # point=cross
+point(4896.8025,2044.0018) # point=cross
+point(4946.9671,2208.8281) # point=cross
+point(4946.9671,2309.1572) # point=cross
+point(4893.2193,2441.7349) # point=cross
+point(4839.4716,2563.563) # point=cross
+point(4782.1407,2656.7257) # point=cross
+point(4724.8098,2760.638) # point=cross
+point(4624.4808,2875.2998) # point=cross
+point(4559.9835,2968.4625) # point=cross
+point(4513.4022,3025.7934) # point=cross
+point(4506.2358,2266.159) # point=cross color=blue
+point(4495.4863,2380.8208) # point=cross color=blue
+point(4430.989,2495.4826) # point=cross color=blue
+point(4355.7422,2606.5612) # point=cross color=blue
+point(4251.83,2692.5576) # point=cross color=blue
+point(4122.8355,2825.1352) # point=cross color=blue
+point(4026.0896,2900.382) # point=cross color=blue
+point(3882.7624,2950.5466) # point=cross color=blue
+point(3778.8501,2979.212) # point=cross color=blue
+point(3628.3565,3025.7934) # point=cross color=blue
+point(3477.8629,3040.1261) # point=cross color=blue
+point(3352.4516,3047.2925) # point=cross color=blue
+point(3191.2085,3015.0438) # point=cross color=blue
+point(3072.9635,2975.6288) # point=cross color=blue
+point(2954.7185,2907.5484) # point=cross color=blue
+point(2804.2249,2835.8848) # point=cross color=blue
+point(2721.8118,2778.5539) # point=cross color=blue
+point(2621.4827,2685.3912) # point=cross color=blue
+point(2524.7368,2581.479) # point=cross color=blue
+point(2402.9087,2506.2322) # point=cross color=blue
+point(2302.5796,2402.3199) # point=cross color=blue
+point(2220.1665,2276.9086) # point=cross color=blue
+point(2130.5869,2180.1627) # point=cross color=blue
+point(2058.9233,2018.9196) # point=cross color=blue
+point(2008.7588,1886.3419) # point=cross color=blue
+point(1958.5943,1739.4315) # point=cross color=blue
+point(1965.7606,1599.6874) # point=cross color=blue
+point(1990.8429,1463.5265) # point=cross color=blue
+point(2033.8411,1348.8648) # point=cross color=blue
+point(2073.2561,1194.788) # point=cross color=blue
+point(2141.3365,1080.1262) # point=cross color=blue
+point(2958.3017,3326.7806) # point=cross color=cyan
+point(2546.2359,3326.7806) # point=cross color=cyan
+point(2395.7423,3237.201) # point=cross color=cyan
+point(2116.2542,3118.9561) # point=cross color=cyan
+point(1980.0934,3004.2943) # point=cross color=cyan
+point(1804.5175,2903.9652) # point=cross color=cyan
+point(1628.9416,2782.1371) # point=cross color=cyan
+point(1496.3639,2645.9762) # point=cross color=cyan
+point(1406.7844,2516.9817) # point=cross color=cyan
+point(1313.6217,2362.9049) # point=cross color=cyan
+point(1306.4554,2223.1609) # point=cross color=cyan
+point(1306.4554,2054.7514) # point=cross color=cyan
+point(1317.2049,1897.0914) # point=cross color=cyan
+point(1327.9544,1696.4333) # point=cross color=cyan
+point(4047.5887,1968.755) # point=cross color=red
+point(4101.3364,1954.4223) # point=cross color=red
+point(4187.3327,1943.6728) # point=cross color=red
+point(4291.245,1961.5887) # point=cross color=red
+point(4384.4077,2033.2523) # point=cross color=red
+point(4413.0731,2126.415) # point=cross color=red
+point(4409.4899,2201.6618) # point=cross color=red
+point(4380.8245,2323.4899) # point=cross color=red
+point(4348.5759,2409.4863) # point=cross color=red
+point(4258.9963,2495.4826) # point=cross color=red
+point(4126.4186,2545.6471) # point=cross color=red
+point(4015.34,2545.6471) # point=cross color=red
+point(3836.181,2491.8994) # point=cross color=red
+point(3721.5192,2438.1517) # point=cross color=red
+point(3631.9397,2352.1554) # point=cross color=red
+point(3563.8593,2301.9908) # point=cross color=red
+point(3481.4461,2190.9122) # point=cross color=red
+point(3442.0311,2083.4168) # point=cross color=red
+point(3406.1993,1983.0878) # point=cross color=red
+point(3402.6161,1886.3419) # point=cross color=red
+point(3416.9489,1760.9305) # point=cross color=red
+point(3470.6966,1653.4351) # point=cross color=red
+point(3513.6947,1560.2724) # point=cross color=red
+point(3599.6911,1427.6947) # point=cross color=red
+point(3707.1865,1356.0311) # point=cross color=red
+point(3825.4315,1284.3675) # point=cross color=red
+point(3954.426,1266.4516) # point=cross color=red
+point(4040.4223,1237.7862) # point=cross color=red
+point(4169.4168,1227.0366) # point=cross color=red
+point(4241.0804,1216.2871) # point=cross color=red
+point(4391.574,1212.7039) # point=cross color=red
+point(4542.0676,1205.5375) # point=cross color=red
+point(4674.6453,1194.788) # point=cross color=red
+point(4839.4716,1187.6216) # point=cross color=red
+point(5065.212,1201.9543) # point=cross color=red
+point(5187.0402,1295.117) # point=cross color=red
+point(5290.9524,1370.3638) # point=cross color=red
+point(5376.9487,1449.1938) # point=cross color=red
+point(5459.3619,1571.022) # point=cross color=red
+point(5559.691,1707.1828) # point=cross color=red
+point(5627.7714,1829.011) # point=cross color=red
+point(5652.8537,1975.9214) # point=cross color=red
+point(5652.8537,2087) # point=cross color=red
+point(5652.8537,2194.4954) # point=cross color=red
+point(5642.1041,2370.0713) # point=cross color=red
+point(5606.2723,2488.3162) # point=cross color=red
+point(5574.0237,2617.3108) # point=cross color=red
+point(5520.276,2817.9689) # point=cross color=red
+point(5477.2778,2939.797) # point=cross color=red
+point(5391.2815,3047.2925) # point=cross color=red
+point(5230.0383,3140.4552) # point=cross color=red
+point(5086.7111,3233.6179) # point=cross color=red
+point(4939.8007,3326.7806) # point=cross color=red
+point(4800.0566,3405.6105) # point=cross color=red
+point(4613.7312,3491.6069) # point=cross color=red
+point(4484.7367,3552.5209) # point=cross color=red
+point(4327.0768,3624.1846) # point=cross color=red
+point(5710.1846,1735.8483) # point=cross
+point(5799.7641,1814.6783) # point=cross
+point(5849.9286,1889.9251) # point=cross
+point(5935.925,2011.7532) # point=cross
+point(6000.4222,2144.3309) # point=cross
+point(6050.5867,2251.8263) # point=cross
+point(6107.9176,2387.9872) # point=cross
+point(6147.3326,2527.7312) # point=cross
+point(6158.0822,2678.2248) # point=cross
+point(6154.499,2810.8025) # point=cross
+point(6100.7513,3015.0438) # point=cross
+point(6057.7531,3111.7897) # point=cross
+point(5978.9231,3222.8683) # point=cross
+point(5301.702,1219.8702) # point=cross color=cyan
+point(5448.6124,1252.1189) # point=cross color=cyan
+point(5577.6069,1295.117) # point=cross color=cyan
+point(5742.4332,1345.2816) # point=cross color=cyan
+point(5971.7568,1445.6106) # point=cross color=cyan
+point(6090.0017,1553.1061) # point=cross color=cyan
+point(6218.9962,1685.6838) # point=cross color=cyan
+point(6326.4917,1825.4278) # point=cross color=cyan
+point(6416.0712,1925.7569) # point=cross color=cyan
+point(3649.8556,1259.2852) # point=cross
+point(3732.2688,1133.8739) # point=cross
+point(3800.3492,1069.3767) # point=cross
+point(3907.8446,972.63077) # point=cross
+point(4018.9232,886.63443) # point=cross
+point(4133.585,807.80445) # point=cross
+point(4248.2468,707.47539) # point=cross
+point(4355.7422,610.72951) # point=cross
+point(4502.6526,567.73134) # point=cross
+point(4642.3967,513.98363) # point=cross
+point(4860.9707,478.15182) # point=cross
+point(5007.8811,467.40228) # point=cross
+point(3406.1993,2223.1609) # point=cross color=cyan
+point(3273.6216,2147.9141) # point=cross color=cyan
+point(3212.7075,2058.3346) # point=cross color=cyan
+point(3148.2103,1850.5101) # point=cross color=cyan
+point(3133.8776,1703.5997) # point=cross color=cyan
+point(3137.4607,1492.192) # point=cross color=cyan
+point(3151.7935,1338.1152) # point=cross color=cyan
+point(3187.6253,1108.7916) # point=cross color=cyan
+point(3237.7898,951.13169) # point=cross color=cyan
+point(3298.7039,779.13901) # point=cross color=cyan
+point(3363.2011,678.80995) # point=cross color=cyan
+point(3940.0932,2696.1407) # point=cross color=magenta
+point(3875.596,2696.1407) # point=cross color=magenta
+point(3778.8501,2667.4753) # point=cross color=magenta
+point(3624.7733,2635.2267) # point=cross color=magenta
+point(3488.6125,2602.978) # point=cross color=magenta
+point(3406.1993,2534.8976) # point=cross color=magenta
+point(3287.9543,2459.6508) # point=cross color=magenta
+point(3155.3767,2398.7367) # point=cross color=magenta
+point(3001.2999,2291.2413) # point=cross color=magenta
+point(2918.8867,2194.4954) # point=cross color=magenta
+point(2825.724,2090.5832) # point=cross color=magenta
+point(2757.6436,2004.5868) # point=cross color=magenta
+point(2689.5631,1832.5942) # point=cross color=magenta
+point(2653.7313,1674.9342) # point=cross color=magenta
+point(2632.2323,1549.5229) # point=cross color=magenta
